@@ -35,3 +35,7 @@ _Avoid_: chain, linear workflow, gistool.json
 **Tool**:
 网站上的一个工具页面，比如格式转换、山体阴影。
 _Avoid_: operator, feature
+
+**同时算**:
+几步谁也不用等谁的结果时，一起算，页面还能操作。
+_Avoid_: 并发模式, 多线程, 任务队列
