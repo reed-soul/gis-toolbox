@@ -1,0 +1,9 @@
+{
+  "name": "gis-toolbox",
+  "private": true,
+  "type": "module",
+  "description": "步骤列表和画布共用的一份作业",
+  "scripts": {
+    "test": "node --experimental-strip-types --test test/workflow.test.ts"
+  }
+}
